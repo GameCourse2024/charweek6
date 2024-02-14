@@ -1,1 +1,1 @@
-# charweek6
+# weekly6
